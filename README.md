@@ -1,6 +1,8 @@
 # 🦋 Código de Conduta WoMakersCode 🦋
 
-<blockquote> Uma comunidade criada por mulheres, para todas as pessoas que se identificam como mulheres.</blockquote>
+# Uma comunidade criada por mulheres, para todas as pessoas que se identificam como mulheres.
+
+O setor de tecnologia é um dos que mais cresce no mundo, gerando muitas oportunidades. No entanto, há um gap Tem muita oportunidade, mas faltam desenvolvedores.
 
 O grupo [WoMakersCode – Mulheres na Tecnologia](https://www.facebook.com/groups/1586631624996019) é um espaço para fortalecer e aproximar nossa rede de mulheres e comunidades, que queiram aprender ou compartilhar conteúdos relevantes, oportunidades e experiências. As moderadoras do grupo se comprometem em checar os perfis das novas ingressantes, a fim de garantir a segurança, o respeito e a harmonia do espaço.
 
