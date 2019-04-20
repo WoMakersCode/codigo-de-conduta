@@ -1,4 +1,6 @@
-# Código de Conduta ⚡️
+# 🦋 Código de Conduta WoMakersCode 🦋
+
+<blockquote style="--x-height-multiplier: 0.342; --baseline-multiplier: 0.22;font-weight: 400;font-style: italic;font-size: 30px;line-height: 1.48;letter-spacing: -.012em;"> Uma comunidade criada por mulheres, para mulheres</blockquote>
 
 O grupo [WoMakersCode – Mulheres na Tecnologia](https://www.facebook.com/groups/1586631624996019) é um espaço para fortalecer e aproximar nossa rede de mulheres e comunidades, que queiram aprender ou compartilhar conteúdos relevantes, oportunidades e experiências. As moderadoras do grupo se comprometem em checar os perfis das novas ingressantes, a fim de garantir a segurança, o respeito e a harmonia do espaço.
 
