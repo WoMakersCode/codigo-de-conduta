@@ -6,7 +6,7 @@
 
 O mercado de tecnologia é um dos que mais cresce no mundo, gerando milhares de oportunidades de carreira. Ao longo de muitas décadas tivemos mulheres como pioneiras, programando os primeiros computadores digitais e tantos outros projetos que marcaram a história da humanidade. No entanto, atualmente enfrentamos um gap da presença feminina na área.
 
-Isso não acontece porque as mulheres não têm interesse ou não são capazes, o desafio de aprender tecnologia (seja desenvolvimento ou outra área relacionada), se inicia muito antes de tentar. Algumas das principais causas estão relacionadas a estereótipos, ambientes poucos inclusivos, representatividade e falta de referências atuais e a meios de capacitação. A representativadade é um dos pontos mias importantes, pois é muito difícil se imaginar fazendo algo quando ninguém como você está fazendo.
+Isso não acontece porque as mulheres não têm interesse ou não são capazes, o desafio de aprender tecnologia (seja desenvolvimento ou outra área relacionada), se inicia muito antes de tentar. Algumas das principais causas estão relacionadas a estereótipos, ambientes poucos inclusivos, representatividade e falta de referências atuais e a meios de capacitação. A representativadade é um dos pontos mais importantes, pois é muito difícil se imaginar fazendo algo quando ninguém como você está fazendo.
 
 ## Somos uma comunidade de mulheres que se apoiam, baseada em um ambiente seguro, com representatividade e sororidade
 
