@@ -94,9 +94,19 @@ Para garantir uma comunicação eficiente e manter nossa comunidade informada, a
 
 Recomendamos que nossas integrantes sigam estes canais oficiais para se manterem atualizadas sobre eventos, oportunidades e iniciativas da WoMakersCode.
 
-**Regras de Publicação**
+## ✅ Regras de Publicação
 
-As publicações nos canais de comunicação da comunidade devem ser relevantes para tecnologia, diversidade e empoderamento feminino. É permitida a divulgação de eventos gratuitos e conteúdos relacionados, desde que não seja a única interação da participante.
+Na WoMakersCode, promovemos espaços seguros e produtivos, alinhados aos nossos valores. Por isso, estabelecemos as seguintes diretrizes para publicações:
+
+- **Publicações Relevantes**: As publicações devem estar relacionadas a temas como tecnologia, diversidade e empoderamento feminino.
+
+- **Divulgação de Eventos e Cursos**: É permitida a divulgação de eventos, palestras e cursos que promovam diversidade no ecossistema e sejam gratuitos. Conteúdos pagos necessitam de aprovação prévia.
+
+- **Compartilhamento de Blogs e Artigos**: É permitido divulgar blogs ou artigos sobre tecnologia, desde que isso não seja sua única interação no grupo.
+
+- **Participação Ativa**: Incentivamos que todas as integrantes contribuam ativamente com discussões e trocas. Membros que utilizarem o grupo apenas para autopromoção serão notificados. Persistindo a conduta, poderão ser removidos.
+
+Nosso objetivo é garantir que o espaço seja útil, seguro e enriquecedor para todas as integrantes que integram a nossa comunidade.
 
 ## 🗺️ Participação em Ambientes Presenciais
 
