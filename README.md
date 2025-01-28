@@ -2,73 +2,124 @@
 
 ![AdaLovelace_Hero](https://user-images.githubusercontent.com/2198735/56452457-7c217880-6307-11e9-9994-80ef9f2d63de.jpg)
 
-# Uma comunidade criada por mulheres, para todas as pessoas que se identificam como mulheres.
+## Uma comunidade criada por mulheres, para todas as pessoas que se identificam como mulheres.
 
-O mercado de tecnologia é um dos que mais cresce no mundo, gerando milhares de oportunidades de carreira. Ao longo de muitas décadas tivemos mulheres como pioneiras, programando os primeiros computadores digitais e tantos outros projetos que marcaram a história da humanidade. No entanto, atualmente enfrentamos um gap da presença feminina na área.
+O setor de tecnologia é um dos que mais cresce globalmente, gerando inúmeras oportunidades de carreira. Ao longo da história, mulheres pioneiras programaram os primeiros computadores digitais e lideraram projetos que marcaram a humanidade. Contudo, atualmente enfrentamos uma lacuna significativa na presença feminina nesta área.
 
-Isso não acontece por que as mulheres não interesse ou não são capazes, o desafio de aprender tecnologia (seja desenvolvimento ou outra área relacionada), se inicia muito antes de tentar. Algumas das principais causas estão relacionadas à estereótipos, ambientes poucos inclusivos, representatividade e falta de referências atuais e a meios de capacitação. A representativadade é um dos pontos mias importantes, pois é muito difícil se imaginar fazendo algo quando ninguém como você está fazendo.
+Esta disparidade não ocorre por falta de interesse ou capacidade das mulheres. O desafio de ingressar na tecnologia começa muito antes da aprendizagem em si. As principais barreiras incluem:
 
-## Somos uma comunidade de mulheres que se apoiam, baseada em um ambiente seguro, com representatividade e sororidade
+- Estereótipos de gênero persistentes
+- Ambientes pouco inclusivos
+- Falta de representatividade
+- Escassez de referências femininas atuais
+- Acesso limitado a meios de capacitação
 
-Nossos ambientes presenciais e online são um espaço para fortalecer e aproximar nossa rede de mulheres e comunidades, que queiram aprender ou compartilhar conteúdos relevantes, oportunidades e experiências. As organizadoras se comprometem em checar os perfis das novas ingressantes, a fim de garantir a segurança, o respeito e a harmonia do espaço.
+A representatividade é crucial neste contexto. É difícil se imaginar em uma carreira quando não se vê pessoas semelhantes a você nela. Por isso, aumentar a visibilidade de mulheres na tecnologia é fundamental para inspirar e encorajar mais mulheres a ingressarem e prosperarem neste campo.
 
-**Online,** você nos encontra no grupo [WoMakersCode – Mulheres na Tecnologia](https://www.facebook.com/groups/1586631624996019), que é um local onde você pode interagir com outras mulheres da nossa rede.
+## 🦋 Sobre a WoMakersCode
 
-**Presencialmente,** você nos encontra em nossos eventos e cursos, que acontecem em várias cidades do país. Para acompanhar o calendário, entre para o [WoMakersCode no Meetup.com.](https://meetup.com/pt-BR/WoMakersCode/)
+A WoMakersCode é uma organização não governamental (ONG) brasileira dedicada a promover a inclusão e o empoderamento de mulheres na área de tecnologia. Fundada em 2015, a WoMakersCode oferece uma variedade de programas, cursos, workshops e eventos que visam capacitar mulheres em habilidades técnicas e socioemocionais, além de facilitar o acesso a oportunidades de carreira e promover a diversidade e inclusão nas empresas de tecnologia.
 
+### Missão, Visão e Valores
 
-## Código de Conduta
-Acreditamos em um ambiente onde todas se sintam bem-vindas e possam compartilhar seus desafios, problemas e opiniões para que a comunidade possa auxiliar no crescimento de todas. O Código de Conduta é um guia de comportamento para todos os ambientes de nossa comunidade.
+**Missão:** Promover a equidade de gênero na tecnologia, criando oportunidades de desenvolvimento e inspirando mulheres a conquistarem seu espaço no mercado.
 
-**🔒 A WoMakersCode deve ser um lugar seguro e convidativo para pessoas independentemente de:**
+**Visão:** Impulsionar a jornada de formação técnica e empregabilidade de mulheres na tecnologia, desde o início da carreira até posições de liderança.
 
--	Gênero, identidade de gênero ou expressão de gênero
--	Orientação sexual
--	Restrições físicas
--	Aparência física (incluindo, mas não limitado, ao tamanho do corpo)
--	Raça e/ou etnia
--	Idade
--	Religião ou a falta dela
--	Escolha de tecnologias
+**Valores:** Empoderamento, Inclusão, Colaboração, Excelência e Impacto.
 
-**✔️Como membro deste grupo, você concorda que:**
+## 🔒 Código de Conduta
 
--	Nós somos, coletivamente e individualmente, comprometidos com a segurança e inclusão.
--	Nós adotamos a política de tolerância zero para assédio, perseguições ou discriminações.
--	Nós respeitamos os limites, identidade e privacidade das pessoas.
--	Nós nos abstemos de usar linguagem que possa ser considerada opressiva, como comentários sexistas, racistas, homofóbicos, transfóbicos, classistas ou que discrimine pessoas com qualquer tipo de deficiência, mas este Código de Conduta não está limitado a apenas estes.
--	Nós evitamos tópicos ofensivos como forma de humor.
--	Nós evitamos tópicos que fogem ao escopo do grupo, como conteúdo político.
--	Nenhum conteúdo de cunho comercial ou de captação de dados para disponibilização de gratuidades poderá ser postado, salvo ações que sejam divulgadas pelo time oficial do WoMakersCode, como inscrições para novos cursos ou ou eventos movidos para comunidade, pois garantimos a privacidade de seus dados.
+O Código de Conduta da WoMakersCode define o comportamento esperado das integrantes da comunidade, garantindo segurança, respeito e inclusão. Ele se baseia na missão, visão e valores da organização, bem como em normas de conduta e legislações aplicáveis.
 
-**✔️Nós trabalhamos ativamente para:**
+### Compromisso da WoMakersCode 🦋 
 
--	Ser uma comunidade segura.
--	Cultivar uma rede de suporte e encorajamento para todos.
--	Encorajar variadas formas de expressão de maneira responsável.
+A WoMakersCode valoriza e respeita todas as identidades e perspectivas, não tolerando discriminação ou assédio baseado em gênero, orientação sexual, características físicas, raça, etnia, religião, idade ou escolha de tecnologias.
 
-**❌ Nós NÃO permitimos:**
--	Perseguição, doxxing (investigar a vida de uma pessoa sem autorização) ou publicações indevidas de informações privadas.
--	Ameaças e assédio de qualquer tipo.
--	Qualquer comportamento que comprometa a segurança dos demais membros.
--	Essas atitudes NÃO SÃO CORRETAS. Se você não concorda com estas regras, por favor, cancele sua inscrição em nossos grupos online ou eventos presenciais.
+A organização se compromete a:
+- Garantir um ambiente seguro
+- Fomentar uma rede de suporte e encorajamento
+- Incentivar formas responsáveis de expressão
 
+### Compromissos das Integrantes 👩
 
-**📣 Regras de publicação**
+As integrantes da comunidade, sejam elas participantes de eventos, grupos de discussão, equipe ou voluntárias da ONG, devem:
 
-Para que tenhamos um bom convívio, é importante cada um seguir as regras de utilização deste grupo:
--	Publicar coisas somente relacionadas a tecnologia. Outros temas sem relação serão excluídos.
--	Divulgação de eventos, palestras e cursos que não pertençam ao grupos são permitidos desde que tenham um direcionamento para promover a diversidade em seu ecossistema e que sejam GRATUITOS. Outros temas não relacionados não são permitidos. Conteúdos pagos precisam de aprovação prévia para publicação.
--	Se você tem um blog que fala sobre tecnologia e quer divulgar suas postagens no grupo, tudo bem, desde que você não utilize o grupo somente para isso.
--	Se você nunca contribui com as discussões do grupo e simplesmente aparece para divulgar seus links, será convidado a se retirar. Os membros que insistirem em não seguir essas regras, infelizmente serão excluídos do grupo.
+- Contribuir para um ambiente seguro e inclusivo
+- Não praticar ou tolerar assédio e discriminação
+- Respeitar limites e privacidade
+- Usar linguagem e comportamento responsáveis
+- Manter o foco no propósito da comunidade
 
-**❓ E se o Código de Conduta for desrespeitados?**
+**Exemplos de Comportamentos Esperados**
 
-**Online:**
+- Usar linguagem inclusiva e respeitosa em todas as interações
+- Oferecer e aceitar feedback construtivo de forma respeitosa
+- Demonstrar empatia e gentileza com outras participantes
+- Respeitar diferentes opiniões, perspectivas e experiências
+- Focar em discussões produtivas e colaborativas sobre tecnologia e/ou demandas de trabalho
+- Compartilhar conhecimentos e recursos de forma generosa
+- Reportar comportamentos inadequados para as moderadoras
 
-Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir insegura, fale com uma administradora. Se a administradora for a pessoa que você quer reportar, fale com outra administradora.
+**Exemplos de Comportamentos Não Permitidos**
+- Usar linguagem ou imagens sexualizadas ou abordagens sexualizadas e indesejados
+- Fazer comentários depreciativos, insultos pessoais ou ataques políticos
+- Assediar publicamente ou privadamente outros membros da comunidade
+- Publicar informações privadas de outras pessoas sem permissão explícita
+- Interromper ou perturbar apresentações, discussões ou eventos da comunidade
+- Promover produtos, serviços ou agendas pessoais sem aprovação prévia
+- Discriminar com base em gênero, orientação sexual, raça, religião ou deficiência
 
-**Eventos Presenciais:**
+## 🖥️ Participação em Ambientes Online
 
-Se alguém se envolver em comportamento de assédio, a equipe organizadora poderá tomar todas as medidas que considerar adequadas, incluindo avisar a pessoa ofensora ou expulsá-la da conferência e/ou grupos, com a constatação dos fatos. No caso de eventos pagos, não haverá nenhum reembolso.
+**Para ambientes online:**
 
+- Usar canais para temas relacionados à tecnologia, diversidade e empoderamento feminino
+- Não utilizar para fins comerciais ou coleta de dados não autorizados
+- Demonstrar respeito às participantes e moderadoras
+- Evitar autopromoção excessiva
+- Denunciar violações do Código de Conduta às administradoras/moderadoras
+
+**Canais Oficiais da WoMakersCode**
+
+Para garantir uma comunicação eficiente e manter nossa comunidade informada, a WoMakersCode está presente nos seguintes canais oficiais:
+
+- [Site oficial](https://womakerscode.org/)
+- [LinkedIn](https://www.linkedin.com/groups/12042170/)
+- [Instagram](https://instagram.com/womakersgram)
+- [Twitter](https://x.com/womakerscode)
+- [Facebook](https://www.facebook.com/womakerscode/)
+- [YouTube](https://www.youtube.com/womakerscode)
+- [Newsletter](https://womakerscode.substack.com/)
+
+Recomendamos que nossas integrantes sigam estes canais oficiais para se manterem atualizadas sobre eventos, oportunidades e iniciativas da WoMakersCode.
+
+**Regras de Publicação**
+
+As publicações nos canais de comunicação da comunidade devem ser relevantes para tecnologia, diversidade e empoderamento feminino. É permitida a divulgação de eventos gratuitos e conteúdos relacionados, desde que não seja a única interação da participante.
+
+## 🗺️ Participação em Ambientes Presenciais
+
+**Para eventos, cursos ou quaisquer outras atividades presenciais:**
+- Demonstrar respeito às organizadoras, palestrantes e participantes
+- Evitar comportamentos disruptivos
+- Reportar comportamentos inadequados à equipe organizadora
+
+## 👁️‍🗨️ Privacidade e Proteção de Dados
+
+A WoMakersCode se compromete a:
+- Coletar apenas dados necessários
+- Usar os dados de forma responsável
+- Restringir o compartilhamento de informações
+- Respeitar os direitos das integrantes sobre seus dados
+
+## 📣 Procedimentos para Denúncias
+
+Em caso de violações do Código de Conduta, forneça detalhes sobre o incidente. Todas as denúncias serão tratadas com confidencialidade.
+
+- **Em ambientes online:** Contatar uma administradora do grupo ou utilizar o canal de [Ouvidoria no Site](https://womakerscode.org/ouvidoria/)
+- **Em eventos presenciais:** Reportar à equipe organizadora ou utilizar o canal de [Ouvidoria no Site](https://womakerscode.org/ouvidoria/)
+
+### Termo de Aceitação
+
+Ao ingressar na comunidade WoMakersCode, as participantes reconhecem e concordam com os termos estabelecidos no Código de Conduta, comprometendo-se a adotar comportamentos que fortaleçam a convivência respeitosa e produtiva.
