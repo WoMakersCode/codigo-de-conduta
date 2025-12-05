@@ -86,7 +86,7 @@ Para garantir uma comunicação eficiente e manter nossa comunidade informada, a
 
 - [Site oficial](https://womakerscode.org/)
 - [LinkedIn](https://www.linkedin.com/groups/12042170/)
-- [Instagram](https://instagram.com/womakersgram)
+- [Instagram](https://instagram.com/womakerscodebr)
 - [Twitter](https://x.com/womakerscode)
 - [Facebook](https://www.facebook.com/womakerscode/)
 - [YouTube](https://www.youtube.com/womakerscode)
